@@ -1,5 +1,15 @@
-# nicole-ptr.github.io
+# Welcome!
+
+### Nicole Ptr - Front-end Developer
+
+## Skills:
+- Bootstrap
+- CSS3, SASS, HTML5
+- Angular
 
 
-## Hello
+#### Worked in the past
+- express js
+- vue.js
+- laravel
 
