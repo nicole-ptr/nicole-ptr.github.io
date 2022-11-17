@@ -1,7 +1,9 @@
 # Nicole Petrou
 ## Email: petrou.nicoleta -at- gmail.com
 
-###Front-end Developer
+---
+
+## Front-end Developer
 
 ## Experience:
 - Front-End Web Developer
