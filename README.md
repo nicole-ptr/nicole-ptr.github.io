@@ -1,15 +1,17 @@
-# Welcome!
+# Nicole Petrou
+## Email: petrou.nicoleta -at- gmail.com
 
-### Nicole Ptr - Front-end Developer
+###Front-end Developer
 
-## Skills:
-- Bootstrap
-- CSS3, SASS, HTML5
-- Angular
+## Experience:
+- Front-End Web Developer
+  - Bootstrap
+  - CSS3, SASS, HTML5
+  - Angular
+- Limited interaction with backend tech:
+  - express.js
+  - Laravel
 
 
 #### Worked in the past
-- express js
 - vue.js
-- laravel
-
