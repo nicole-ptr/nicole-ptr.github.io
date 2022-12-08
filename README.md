@@ -1,6 +1,6 @@
 # Nicole Petrou
 ## Email: petrou.nicoleta -at- gmail.com
-
+## Upwork: https://www.upwork.com/freelancers/~012472814b2a860c20
 ---
 
 ## Front-end Developer
